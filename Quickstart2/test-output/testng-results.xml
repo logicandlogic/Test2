@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Starting the test...]]>
+    </line>
+    <line>
+      <![CDATA[Before Driver installation...]]>
+    </line>
+    <line>
+      <![CDATA[Title is...Gmail]]>
+    </line>
+    <line>
+      <![CDATA[True : Before Driver installation...]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9829" started-at="2018-01-10T14:12:43Z" finished-at="2018-01-10T14:12:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9829" started-at="2018-01-10T14:12:43Z" finished-at="2018-01-10T14:12:53Z">
+      <class name="com.pk.demo.Quickstart.AppTest2">
+        <test-method status="PASS" signature="AppTest212()[pri:0, instance:com.pk.demo.Quickstart.AppTest2@28d25987]" name="AppTest212" duration-ms="9826" started-at="2018-01-10T19:42:43Z" finished-at="2018-01-10T19:42:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting the test...]]>
+            </line>
+            <line>
+              <![CDATA[Before Driver installation...]]>
+            </line>
+            <line>
+              <![CDATA[Title is...Gmail]]>
+            </line>
+            <line>
+              <![CDATA[True : Before Driver installation...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AppTest212 -->
+      </class> <!-- com.pk.demo.Quickstart.AppTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
