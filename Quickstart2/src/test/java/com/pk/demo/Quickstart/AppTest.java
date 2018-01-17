@@ -54,7 +54,7 @@ public class AppTest
 	public void SuwtichToNewTab() throws InterruptedException, AWTException
     {
     
-    	System.out.println("App2 ");
+    	System.out.println("App2 fdg fdgfd");
     	Thread.sleep(5000);
     	//System.out.println("The period is ..."+x+ " "+Thread.currentThread().getId());
     
